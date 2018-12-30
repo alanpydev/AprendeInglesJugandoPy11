@@ -1,0 +1,15 @@
+Objetivos del programa.- Ayudar a aprender los sustantivos o nouns de la lengua inglesa
+1. analisis y diseño
+	se contara con dos archivos de texto en uno iran las palabras en español, 
+					     en el otro iran las palabras en ingles, 
+					en ambos en el mismo orden.
+	-El programa debe poder leer ambos archivos y reconocer todas sus palabras,
+	-luego las debe mostrar por su consola todas las palabras en ingles y español
+	-Una vez hecho debe poder preguntar al usuario sobre cualquier palabra, aleatorio
+	-se tendra 5 vidas como maximo
+	-para que no hayan palabras repetidas, cada palabra se debera preguntar maximo 2 veces
+	-cuando el usuario responde se debe poder buscar en todos los posibles sinonimos
+
+
+Existen sinonimos para cada sustantivo 
+hay q considerar esto
